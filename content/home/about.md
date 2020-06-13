@@ -17,10 +17,22 @@ page_type = "post"
 #   4 = Citation (publication only)
 view = 2
 columns = 1
-+++
 
+[advanced]
+# Custom CSS.
+css_style = ""
+
+# CSS class.
+ css_class = "
+ centertextblock {
+  width = 80%;
+  padding = 0 10%;
+}"
++++
+<div class="centertextblock">
 Hi! I'm Dave. Currently, I'm a program officer on the Financial Services for the Poor team at the Bill & Melinda Gates Foundation. I lead our team's strategies on product innovation, distribution / CICO, and Financial Health.
 
 Previously, I was at ?What If! Innovation and Opera Solutions.
 
 Learn More →
+</div>

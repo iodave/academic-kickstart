@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Hero Kickstart"
-subtitle = "A subtitle for the ages."
+title = "Hi, there. I believe in the joy of innovation and that we, together, can create a better tomorrow."
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.

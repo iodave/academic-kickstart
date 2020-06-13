@@ -19,8 +19,8 @@ css_style = ""
  css_class = ""
 +++
 
-Hi! I'm Dave. Currently, I'm a program officer on the Financial Services for the Poor team at the Bill & Melinda Gates Foundation. I lead our team's strategies on product innovation, distribution / CICO, and Financial Health.
+Hi! I'm Dave. Currently, I'm a program officer on the Financial Services for the Poor team at the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/). I lead our team's strategies on product innovation, distribution / CICO, and Financial Health.
 
-Previously, I was at ?What If! Innovation and Opera Solutions.
+Previously, I was at [?What If! Innovation](http://www.whatifinnovation.com/) and Opera Solutions.
 
 Learn More →

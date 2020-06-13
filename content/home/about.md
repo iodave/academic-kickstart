@@ -6,8 +6,6 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = ""
-
 [content]
 page_type = "post"
 
@@ -18,7 +16,7 @@ page_type = "post"
 #   3 = Card
 #   4 = Citation (publication only)
 view = 2
-
+columns = 1
 +++
 
 Hi! I'm Dave. Currently, I'm a program officer on the Financial Services for the Poor team at the Bill & Melinda Gates Foundation. I lead our team's strategies on product innovation, distribution / CICO, and Financial Health.

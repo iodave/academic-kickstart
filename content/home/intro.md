@@ -18,7 +18,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#fff"
+  color = "white"
 
   # Background gradient.
   #gradient_start = "#2D9CDB"
@@ -32,11 +32,11 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "20%", "40px", "20%"]
 
 [advanced]
  # Custom CSS.
